@@ -8,7 +8,7 @@ It is a Simple Digital Clock made using Javascript
 
 - Download or clone the repository
 ```
-git clone https://github.com/Tejas1510/Hacking-Scripts.git
+git clone https://github.com/Saup21/Digital-Clock.git
 ```
 - Go to the directory
 - Run the index.html file

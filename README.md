@@ -16,7 +16,7 @@ git clone https://github.com/Saup21/Digital-Clock.git
 
 <br/>
 
-#### Tech stack:
+#### Tech Stack:
 ---
 - HTML5
 - CSS3
